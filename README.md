@@ -34,7 +34,9 @@ CLIENT_SECRET=ваш_client_secret
 
 3. Добавьте в `client/.env`:
 
-- VITE_CLIENT_ID=ваш_client_id
+```
+VITE_CLIENT_ID=ваш_client_id
+```
 
 ## 📦 Установка и запуск
 
