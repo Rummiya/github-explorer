@@ -4,7 +4,7 @@
 ![RTK](https://img.shields.io/badge/Redux%20Toolkit-informational?style=for-the-badge&color=764abc&logo=redux&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK%20Query-informational?style=for-the-badge&color=764abc&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# GitHub Profile
+# GitHub Explorer
 
 Веб-приложение для просмотра профиля GitHub-пользователя, списка его репозиториев и поиска других пользователей. Поддерживается авторизация через GitHub OAuth и редактирование собственного профиля.
 
@@ -48,10 +48,10 @@ VITE_CLIENT_ID=ваш_client_id
 
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/Rummiya/github-profile.git
+git clone https://github.com/Rummiya/github-explorer.git
 
 # Запускаем клиент
-cd github-profile/client
+cd github-explorer/client
 npm install
 npm run dev
 
